@@ -1,0 +1,2 @@
+PODS_KIISDK_FRAMEWORK_SEARCH_PATHS = $(inherited) $(PODS_ROOT)/KiiSDK
+PODS_KIISDK_OTHER_LDFLAGS = -all_load -lsqlite3 -lz -framework Accounts -framework CoreGraphics -framework KiiSDK -framework MobileCoreServices -framework Security -framework Social -framework SystemConfiguration

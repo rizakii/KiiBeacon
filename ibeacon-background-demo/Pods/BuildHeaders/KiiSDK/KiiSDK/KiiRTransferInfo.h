@@ -1,0 +1,1 @@
+../../../KiiSDK/KiiSDK.framework/Versions/A/Headers/KiiRTransferInfo.h
